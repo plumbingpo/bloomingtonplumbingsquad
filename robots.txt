@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bloomingtonplumbingsquad.com/sitemap.xml
